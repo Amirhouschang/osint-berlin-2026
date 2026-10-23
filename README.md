@@ -14,7 +14,7 @@ in welchen Bezirken, und wo sich Polizeimeldungen und Medienberichterstattung un
 ![Polizeimeldungen und Medienartikel pro Monat, Januar bis Oktober 2026](images/polizei_medien_pro_monat.png)
 
 **Drei Ergebnisse auf einen Blick**
-- Polizei und Medien laufen nicht gleich: Die Wochenwerte hängen nicht zusammen (Pearson -0,21, Spearman -0,01). Zum Anschlag im Umfeld des CSD gibt es eine Polizeimeldung, aber 961 Medienartikel.
+- Polizei und Medien laufen nicht gleich: Die Wochenwerte hängen nicht zusammen (Pearson -0,13, Spearman 0,06). Rund um den Anschlag im Umfeld des CSD gibt es eine Polizeimeldung, aber 961 Medienartikel mit CSD-Bezug im Titel.
 - Je Einwohner liegt Friedrichshain-Kreuzberg vorn (48,3 Meldungen je 100.000 Einwohner, Berlin 29,8). Pankow fällt von Rang 6 nach der Zahl der Meldungen auf Rang 11 je Einwohner.
 - Die Polizei veröffentlicht gleichmäßig über das Jahr, die Medien folgen großen Ereignissen: Januar und Juli bringen zusammen mehr als ein Drittel aller Artikel.
 

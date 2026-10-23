@@ -4,7 +4,7 @@ Fehlende Polizeimeldungen 2026 nachholen
 
 Projekt:  berlin-osint-2026
 Problem:  Das Archiv auf berlin.de listet nicht alle Meldungen (höchste Nr. 1399,
-          aber nur 984 im Archiv; Juni fast leer).
+          aber nur 988 im Archiv; Juni fast leer).
 Lösung:   Links zu Meldungen aus drei weiteren Quellen sammeln und die Meldungen
           dann direkt von berlin.de abrufen:
           1. Wayback Machine (CDX-API): Liste aller archivierten Meldungs-URLs
@@ -66,8 +66,11 @@ UNTERSEITEN = [
     "https://www.berlin.de/polizei/polizeimeldungen/sachfahndung/",
 ]
 
-# Die erste Meldung 2026 hat die ID 1629630. Kleinere IDs stammen aus 2025
-# und werden gar nicht erst abgerufen (spart Anfragen).
+# Die erste Meldung 2026 hat die ID 1629630. Kleinere IDs werden nicht abgerufen (spart Anfragen),
+# weil die Wayback Machine auch viele ältere Meldungen liefert. Achtung: Die Polizei nutzt teils
+# alte Seiten mit kleineren IDs für neue Meldungen weiter (9 solche Meldungen kamen über das Archiv
+# in die Daten). Solche Meldungen findet dieses Skript nicht. Wer sie sucht, setzt MIN_ID_2026 = 0,
+# dann entscheidet nur das Datum der Meldung (Prüfung weiter unten), bei deutlich mehr Abrufen.
 MIN_ID_2026 = 1629000
 
 # ---------------------------------------------------------------------------

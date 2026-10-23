@@ -14,7 +14,7 @@ districts, and where police reports and media coverage differ.
 ![Police reports and media articles per month, January to October 2026](images/polizei_medien_pro_monat.png)
 
 **Three results at a glance**
-- Police and media do not move together: the weekly values are not related (Pearson -0.21, Spearman -0.01). For the attack near the CSD (Pride) there is one police report, but 961 media articles.
+- Police and media do not move together: the weekly values are not related (Pearson -0.13, Spearman 0.06). Around the attack near the CSD (Pride) there is one police report, but 961 media articles with "CSD" in the title.
 - Per resident, Friedrichshain-Kreuzberg comes first (48.3 reports per 100,000 residents, Berlin 29.8). Pankow drops from rank 6 by number of reports to rank 11 per resident.
 - The police publish evenly over the year, the media follow big events: January and July together bring more than a third of all articles.
 

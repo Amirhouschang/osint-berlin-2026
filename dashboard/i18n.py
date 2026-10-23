@@ -102,7 +102,7 @@ UI = {
         "fact_top_district": "Die meisten Meldungen je Einwohner: **{d}** ({v} je 100.000 Einwohner, Berlin: {b}).",
         "fact_peak_media": "Stärkster Medientag: **{day}** mit {n} Artikeln.",
         "fact_corr": "Polizei und Medien laufen nicht gleich: Korrelation der Wochenwerte Pearson {r}, Spearman {s} (0 = kein Zusammenhang).",
-        "fact_csd": "Zum Anschlag im Umfeld des CSD: {p} Polizeimeldung, aber {m} Medienartikel. Die erste Polizeimeldung dazu (Nr. 905) fehlt in den Daten.",
+        "fact_csd": "Rund um den Anschlag im Umfeld des CSD (25.07. bis 22.08.): {p} Polizeimeldung, aber {m} Medienartikel mit „CSD“ im Titel. Die erste Polizeimeldung dazu (Nr. 905) fehlt in den Daten.",
         "fact_coverage": "Erfasst sind geschätzt {c} % aller Meldungen der Polizei Berlin (über die Meldungsnummern).",
         "ov_how": ("**So liest man das Dashboard:** Jeder Reiter beantwortet eine Frage. Unter jedem Diagramm stehen "
                    "Quelle, Zeitraum, Grundlage und die Erklärung der Begriffe. Die Sprache lässt sich oben rechts "
@@ -203,7 +203,7 @@ UI = {
         "co_factor": "Faktor (1 = gleich)",
         "co_brackets": "In Klammern: Anzahl Polizeimeldungen / Anzahl Medienartikel zum Thema.",
         "co_events": "Die vier Ereignisse: Polizeimeldungen und Medienartikel mit Bezug",
-        "co_events_note": "Gleiche Suchwörter und gleicher Zeitraum wie im Notebook (5.4): Brandanschlag und CSD-Anschlag 0 bis 28 Tage danach, 1. Mai und Wahl 7 Tage davor bis 7 Tage danach.",
+        "co_events_note": "Gleiche Suchwörter und gleicher Zeitraum wie im Notebook (5.4): Brandanschlag und CSD-Anschlag 0 bis 28 Tage danach, 1. Mai und Wahl 7 Tage davor bis 7 Tage danach. Mit Bezug = ein Suchwort steht im Titel (Medien) bzw. in Titel oder Text (Polizei), z. B. „CSD“ oder „Stromausfall“. Das trifft auch Artikel, die nicht vom Anschlag selbst handeln, etwa zum CSD als Demonstration.",
         "co_places": "Orte: Anteil an Meldungen bzw. Artikeln mit Ortsangabe",
         "co_places_note": "Medientitel nennen selten einen Ort, die Anteile beziehen sich deshalb nur auf Meldungen bzw. Artikel mit Ortsangabe (ohne Bezirke). Die Medien konzentrieren sich auf wenige bekannte Orte.",
         "ev_event": "Ereignis", "ev_date": "Datum", "ev_police": "Polizeimeldungen", "ev_media": "Medienartikel",
@@ -292,7 +292,7 @@ Code, Notebook und alle Erklärungen: [GitHub-Repository des Projekts](https://g
         "fact_top_district": "Most reports per resident: **{d}** ({v} per 100,000 residents, Berlin: {b}).",
         "fact_peak_media": "Strongest media day: **{day}** with {n} articles.",
         "fact_corr": "Police and media do not move together: correlation of the weekly values Pearson {r}, Spearman {s} (0 = no relation).",
-        "fact_csd": "On the attack near the CSD: {p} police report, but {m} media articles. The first police report on it (no. 905) is missing from the data.",
+        "fact_csd": "Around the attack near the CSD (25 Jul to 22 Aug): {p} police report, but {m} media articles with “CSD” in the title. The first police report on it (no. 905) is missing from the data.",
         "fact_coverage": "An estimated {c} % of all reports of the Berlin police are covered (based on the report numbers).",
         "ov_how": ("**How to read the dashboard:** each tab answers one question. Below every chart you find the source, "
                    "period, basis and the explanation of the terms. Switch the language at the top right. Methods and "
@@ -389,7 +389,7 @@ Code, Notebook und alle Erklärungen: [GitHub-Repository des Projekts](https://g
         "co_factor": "Factor (1 = equal)",
         "co_brackets": "In brackets: number of police reports / number of media articles on the topic.",
         "co_events": "The four events: police reports and media articles related to them",
-        "co_events_note": "Same search words and period as in the notebook (5.4): arson attack and CSD attack 0 to 28 days after, 1 May and election 7 days before to 7 days after.",
+        "co_events_note": "Same search words and period as in the notebook (5.4): arson attack and CSD attack 0 to 28 days after, 1 May and election 7 days before to 7 days after. Related = a search word is in the title (media) or in title or text (police), e.g. “CSD” or “Stromausfall” (power cut). This also includes articles that are not about the attack itself, e.g. on the CSD as a demonstration.",
         "co_places": "Places: share of reports or articles that name a place",
         "co_places_note": "Media titles rarely name a place, so the shares only refer to reports or articles with a place (without districts). The media concentrate on a few well-known places.",
         "ev_event": "Event", "ev_date": "Date", "ev_police": "Police reports", "ev_media": "Media articles",
