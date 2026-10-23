@@ -1,0 +1,5 @@
+anteil,bezirke,spearman,p
+unter_1500,alle,0.42,0.18
+unter_1500,ohne_top2,0.03,0.95
+ab_4000,alle,-0.19,0.56
+ab_4000,ohne_top2,-0.16,0.66

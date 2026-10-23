@@ -1,0 +1,9 @@
+anteil,bezirke,spearman,p
+ohne_mh,alle,-0.69,0.02
+ohne_mh,ohne_top2,-0.5,0.14
+deutsche_mh,alle,0.59,0.05
+deutsche_mh,ohne_top2,0.5,0.14
+auslaender,alle,0.67,0.02
+auslaender,ohne_top2,0.44,0.2
+mit_mh,alle,0.69,0.02
+mit_mh,ohne_top2,0.5,0.14

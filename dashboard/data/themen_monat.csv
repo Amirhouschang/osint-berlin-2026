@@ -1,0 +1,241 @@
+monat,thema,anzahl,quelle
+2026-01,Nahost-Konflikt,0,polizei
+2026-02,Nahost-Konflikt,2,polizei
+2026-03,Nahost-Konflikt,0,polizei
+2026-04,Nahost-Konflikt,1,polizei
+2026-05,Nahost-Konflikt,2,polizei
+2026-06,Nahost-Konflikt,1,polizei
+2026-07,Nahost-Konflikt,1,polizei
+2026-08,Nahost-Konflikt,1,polizei
+2026-09,Nahost-Konflikt,1,polizei
+2026-10,Nahost-Konflikt,2,polizei
+2026-01,Antisemitismus,1,polizei
+2026-02,Antisemitismus,1,polizei
+2026-03,Antisemitismus,5,polizei
+2026-04,Antisemitismus,2,polizei
+2026-05,Antisemitismus,4,polizei
+2026-06,Antisemitismus,2,polizei
+2026-07,Antisemitismus,0,polizei
+2026-08,Antisemitismus,1,polizei
+2026-09,Antisemitismus,2,polizei
+2026-10,Antisemitismus,2,polizei
+2026-01,Rechtsextremismus,1,polizei
+2026-02,Rechtsextremismus,0,polizei
+2026-03,Rechtsextremismus,4,polizei
+2026-04,Rechtsextremismus,2,polizei
+2026-05,Rechtsextremismus,1,polizei
+2026-06,Rechtsextremismus,1,polizei
+2026-07,Rechtsextremismus,3,polizei
+2026-08,Rechtsextremismus,2,polizei
+2026-09,Rechtsextremismus,2,polizei
+2026-10,Rechtsextremismus,0,polizei
+2026-01,Linksextremismus,2,polizei
+2026-02,Linksextremismus,0,polizei
+2026-03,Linksextremismus,0,polizei
+2026-04,Linksextremismus,0,polizei
+2026-05,Linksextremismus,0,polizei
+2026-06,Linksextremismus,0,polizei
+2026-07,Linksextremismus,0,polizei
+2026-08,Linksextremismus,0,polizei
+2026-09,Linksextremismus,1,polizei
+2026-10,Linksextremismus,0,polizei
+2026-01,Rassismus,2,polizei
+2026-02,Rassismus,2,polizei
+2026-03,Rassismus,2,polizei
+2026-04,Rassismus,2,polizei
+2026-05,Rassismus,3,polizei
+2026-06,Rassismus,7,polizei
+2026-07,Rassismus,3,polizei
+2026-08,Rassismus,5,polizei
+2026-09,Rassismus,1,polizei
+2026-10,Rassismus,2,polizei
+2026-01,Queerfeindlichkeit,1,polizei
+2026-02,Queerfeindlichkeit,3,polizei
+2026-03,Queerfeindlichkeit,0,polizei
+2026-04,Queerfeindlichkeit,1,polizei
+2026-05,Queerfeindlichkeit,7,polizei
+2026-06,Queerfeindlichkeit,1,polizei
+2026-07,Queerfeindlichkeit,4,polizei
+2026-08,Queerfeindlichkeit,3,polizei
+2026-09,Queerfeindlichkeit,14,polizei
+2026-10,Queerfeindlichkeit,2,polizei
+2026-01,Versammlungen,2,polizei
+2026-02,Versammlungen,4,polizei
+2026-03,Versammlungen,2,polizei
+2026-04,Versammlungen,0,polizei
+2026-05,Versammlungen,2,polizei
+2026-06,Versammlungen,3,polizei
+2026-07,Versammlungen,2,polizei
+2026-08,Versammlungen,1,polizei
+2026-09,Versammlungen,4,polizei
+2026-10,Versammlungen,2,polizei
+2026-01,Messer,10,polizei
+2026-02,Messer,12,polizei
+2026-03,Messer,24,polizei
+2026-04,Messer,21,polizei
+2026-05,Messer,20,polizei
+2026-06,Messer,21,polizei
+2026-07,Messer,24,polizei
+2026-08,Messer,16,polizei
+2026-09,Messer,14,polizei
+2026-10,Messer,13,polizei
+2026-01,Gewalt gegen Polizei,5,polizei
+2026-02,Gewalt gegen Polizei,3,polizei
+2026-03,Gewalt gegen Polizei,9,polizei
+2026-04,Gewalt gegen Polizei,5,polizei
+2026-05,Gewalt gegen Polizei,16,polizei
+2026-06,Gewalt gegen Polizei,13,polizei
+2026-07,Gewalt gegen Polizei,10,polizei
+2026-08,Gewalt gegen Polizei,1,polizei
+2026-09,Gewalt gegen Polizei,11,polizei
+2026-10,Gewalt gegen Polizei,7,polizei
+2026-01,Schusswaffe durch Polizei,0,polizei
+2026-02,Schusswaffe durch Polizei,0,polizei
+2026-03,Schusswaffe durch Polizei,0,polizei
+2026-04,Schusswaffe durch Polizei,1,polizei
+2026-05,Schusswaffe durch Polizei,0,polizei
+2026-06,Schusswaffe durch Polizei,0,polizei
+2026-07,Schusswaffe durch Polizei,2,polizei
+2026-08,Schusswaffe durch Polizei,0,polizei
+2026-09,Schusswaffe durch Polizei,1,polizei
+2026-10,Schusswaffe durch Polizei,1,polizei
+2026-01,Taser/DEIG durch Polizei,2,polizei
+2026-02,Taser/DEIG durch Polizei,2,polizei
+2026-03,Taser/DEIG durch Polizei,2,polizei
+2026-04,Taser/DEIG durch Polizei,4,polizei
+2026-05,Taser/DEIG durch Polizei,8,polizei
+2026-06,Taser/DEIG durch Polizei,4,polizei
+2026-07,Taser/DEIG durch Polizei,3,polizei
+2026-08,Taser/DEIG durch Polizei,4,polizei
+2026-09,Taser/DEIG durch Polizei,4,polizei
+2026-10,Taser/DEIG durch Polizei,3,polizei
+2026-01,Vorwürfe gegen Polizei,0,polizei
+2026-02,Vorwürfe gegen Polizei,0,polizei
+2026-03,Vorwürfe gegen Polizei,0,polizei
+2026-04,Vorwürfe gegen Polizei,0,polizei
+2026-05,Vorwürfe gegen Polizei,0,polizei
+2026-06,Vorwürfe gegen Polizei,0,polizei
+2026-07,Vorwürfe gegen Polizei,0,polizei
+2026-08,Vorwürfe gegen Polizei,0,polizei
+2026-09,Vorwürfe gegen Polizei,2,polizei
+2026-10,Vorwürfe gegen Polizei,0,polizei
+2026-01,Nahost-Konflikt,9,medien
+2026-02,Nahost-Konflikt,5,medien
+2026-03,Nahost-Konflikt,11,medien
+2026-04,Nahost-Konflikt,3,medien
+2026-05,Nahost-Konflikt,8,medien
+2026-06,Nahost-Konflikt,2,medien
+2026-07,Nahost-Konflikt,4,medien
+2026-08,Nahost-Konflikt,4,medien
+2026-09,Nahost-Konflikt,11,medien
+2026-10,Nahost-Konflikt,54,medien
+2026-01,Antisemitismus,9,medien
+2026-02,Antisemitismus,8,medien
+2026-03,Antisemitismus,7,medien
+2026-04,Antisemitismus,11,medien
+2026-05,Antisemitismus,13,medien
+2026-06,Antisemitismus,9,medien
+2026-07,Antisemitismus,16,medien
+2026-08,Antisemitismus,25,medien
+2026-09,Antisemitismus,177,medien
+2026-10,Antisemitismus,194,medien
+2026-01,Rechtsextremismus,2,medien
+2026-02,Rechtsextremismus,0,medien
+2026-03,Rechtsextremismus,31,medien
+2026-04,Rechtsextremismus,4,medien
+2026-05,Rechtsextremismus,2,medien
+2026-06,Rechtsextremismus,7,medien
+2026-07,Rechtsextremismus,12,medien
+2026-08,Rechtsextremismus,1,medien
+2026-09,Rechtsextremismus,2,medien
+2026-10,Rechtsextremismus,0,medien
+2026-01,Linksextremismus,108,medien
+2026-02,Linksextremismus,4,medien
+2026-03,Linksextremismus,26,medien
+2026-04,Linksextremismus,0,medien
+2026-05,Linksextremismus,4,medien
+2026-06,Linksextremismus,3,medien
+2026-07,Linksextremismus,3,medien
+2026-08,Linksextremismus,0,medien
+2026-09,Linksextremismus,3,medien
+2026-10,Linksextremismus,0,medien
+2026-01,Rassismus,0,medien
+2026-02,Rassismus,5,medien
+2026-03,Rassismus,1,medien
+2026-04,Rassismus,8,medien
+2026-05,Rassismus,10,medien
+2026-06,Rassismus,10,medien
+2026-07,Rassismus,2,medien
+2026-08,Rassismus,8,medien
+2026-09,Rassismus,2,medien
+2026-10,Rassismus,3,medien
+2026-01,Queerfeindlichkeit,5,medien
+2026-02,Queerfeindlichkeit,4,medien
+2026-03,Queerfeindlichkeit,2,medien
+2026-04,Queerfeindlichkeit,2,medien
+2026-05,Queerfeindlichkeit,12,medien
+2026-06,Queerfeindlichkeit,2,medien
+2026-07,Queerfeindlichkeit,105,medien
+2026-08,Queerfeindlichkeit,19,medien
+2026-09,Queerfeindlichkeit,37,medien
+2026-10,Queerfeindlichkeit,10,medien
+2026-01,Versammlungen,7,medien
+2026-02,Versammlungen,4,medien
+2026-03,Versammlungen,17,medien
+2026-04,Versammlungen,17,medien
+2026-05,Versammlungen,14,medien
+2026-06,Versammlungen,21,medien
+2026-07,Versammlungen,10,medien
+2026-08,Versammlungen,6,medien
+2026-09,Versammlungen,19,medien
+2026-10,Versammlungen,7,medien
+2026-01,Messer,8,medien
+2026-02,Messer,29,medien
+2026-03,Messer,36,medien
+2026-04,Messer,38,medien
+2026-05,Messer,37,medien
+2026-06,Messer,23,medien
+2026-07,Messer,24,medien
+2026-08,Messer,17,medien
+2026-09,Messer,15,medien
+2026-10,Messer,5,medien
+2026-01,Gewalt gegen Polizei,22,medien
+2026-02,Gewalt gegen Polizei,0,medien
+2026-03,Gewalt gegen Polizei,9,medien
+2026-04,Gewalt gegen Polizei,2,medien
+2026-05,Gewalt gegen Polizei,35,medien
+2026-06,Gewalt gegen Polizei,1,medien
+2026-07,Gewalt gegen Polizei,5,medien
+2026-08,Gewalt gegen Polizei,0,medien
+2026-09,Gewalt gegen Polizei,3,medien
+2026-10,Gewalt gegen Polizei,1,medien
+2026-01,Schusswaffe durch Polizei,0,medien
+2026-02,Schusswaffe durch Polizei,0,medien
+2026-03,Schusswaffe durch Polizei,0,medien
+2026-04,Schusswaffe durch Polizei,10,medien
+2026-05,Schusswaffe durch Polizei,0,medien
+2026-06,Schusswaffe durch Polizei,0,medien
+2026-07,Schusswaffe durch Polizei,29,medien
+2026-08,Schusswaffe durch Polizei,0,medien
+2026-09,Schusswaffe durch Polizei,1,medien
+2026-10,Schusswaffe durch Polizei,0,medien
+2026-01,Taser/DEIG durch Polizei,0,medien
+2026-02,Taser/DEIG durch Polizei,0,medien
+2026-03,Taser/DEIG durch Polizei,6,medien
+2026-04,Taser/DEIG durch Polizei,0,medien
+2026-05,Taser/DEIG durch Polizei,2,medien
+2026-06,Taser/DEIG durch Polizei,0,medien
+2026-07,Taser/DEIG durch Polizei,7,medien
+2026-08,Taser/DEIG durch Polizei,5,medien
+2026-09,Taser/DEIG durch Polizei,1,medien
+2026-10,Taser/DEIG durch Polizei,0,medien
+2026-01,Vorwürfe gegen Polizei,1,medien
+2026-02,Vorwürfe gegen Polizei,0,medien
+2026-03,Vorwürfe gegen Polizei,1,medien
+2026-04,Vorwürfe gegen Polizei,0,medien
+2026-05,Vorwürfe gegen Polizei,0,medien
+2026-06,Vorwürfe gegen Polizei,10,medien
+2026-07,Vorwürfe gegen Polizei,1,medien
+2026-08,Vorwürfe gegen Polizei,0,medien
+2026-09,Vorwürfe gegen Polizei,3,medien
+2026-10,Vorwürfe gegen Polizei,0,medien

@@ -1,0 +1,25 @@
+{
+ "meldungen": 1272,
+ "meldungen_mit_bezirk": 1169,
+ "artikel_auswahl": 8807,
+ "artikel_gesamt": 132636,
+ "quellen_auswahl": 232,
+ "titel_verschieden": 6597,
+ "zeitraum_von": "2026-01-01",
+ "zeitraum_bis": "2026-10-21",
+ "einwohner_stichtag": "2026-06-30",
+ "einwohner_berlin": 3917196,
+ "ohne_top2": [
+  "Friedrichshain-Kreuzberg",
+  "Mitte"
+ ],
+ "mikrozensus_jahr": 2025,
+ "abdeckung_gesamt": 90.8,
+ "korrelation_pearson": -0.21,
+ "korrelation_spearman": -0.01,
+ "schuss_polizei": 5,
+ "schuss_toedlich": 1,
+ "waffe_polizei": 39,
+ "waffe_mit_gewalt_gegen_polizei": 18,
+ "modell": "gemma4:26b"
+}

@@ -1,0 +1,660 @@
+monat,bezirk,kategorie,meldungen
+2026-01,Charlottenburg-Wilmersdorf,Brand und Sachbeschädigung,1
+2026-01,Charlottenburg-Wilmersdorf,Drogen,3
+2026-01,Charlottenburg-Wilmersdorf,Politisch motiviert,1
+2026-01,Charlottenburg-Wilmersdorf,Raub und Diebstahl,1
+2026-01,Charlottenburg-Wilmersdorf,Schusswaffen und OK,2
+2026-01,Charlottenburg-Wilmersdorf,Sonstiges,1
+2026-01,Charlottenburg-Wilmersdorf,Verkehr,5
+2026-01,Friedrichshain-Kreuzberg,Gewalt,2
+2026-01,Friedrichshain-Kreuzberg,Politisch motiviert,3
+2026-01,Friedrichshain-Kreuzberg,Raub und Diebstahl,2
+2026-01,Friedrichshain-Kreuzberg,Schusswaffen und OK,3
+2026-01,Friedrichshain-Kreuzberg,Vermisste und Fahndung,1
+2026-01,Lichtenberg,Brand und Sachbeschädigung,1
+2026-01,Lichtenberg,Politisch motiviert,1
+2026-01,Lichtenberg,Raub und Diebstahl,1
+2026-01,Marzahn-Hellersdorf,Brand und Sachbeschädigung,2
+2026-01,Marzahn-Hellersdorf,Gewalt,1
+2026-01,Marzahn-Hellersdorf,Verkehr,2
+2026-01,Mitte,Brand und Sachbeschädigung,3
+2026-01,Mitte,Drogen,2
+2026-01,Mitte,Gewalt,1
+2026-01,Mitte,Politisch motiviert,1
+2026-01,Mitte,Raub und Diebstahl,3
+2026-01,Mitte,Schusswaffen und OK,2
+2026-01,Mitte,Sonstiges,1
+2026-01,Mitte,Verkehr,4
+2026-01,Neukölln,Brand und Sachbeschädigung,2
+2026-01,Neukölln,Drogen,1
+2026-01,Neukölln,Gewalt,1
+2026-01,Neukölln,Raub und Diebstahl,1
+2026-01,Neukölln,Schusswaffen und OK,1
+2026-01,Pankow,Betrug,2
+2026-01,Pankow,Brand und Sachbeschädigung,1
+2026-01,Pankow,Schusswaffen und OK,1
+2026-01,Pankow,Verkehr,2
+2026-01,Reinickendorf,Brand und Sachbeschädigung,1
+2026-01,Reinickendorf,Politisch motiviert,1
+2026-01,Reinickendorf,Raub und Diebstahl,3
+2026-01,Reinickendorf,Schusswaffen und OK,2
+2026-01,Reinickendorf,Verkehr,2
+2026-01,Reinickendorf,Vermisste und Fahndung,1
+2026-01,Spandau,Raub und Diebstahl,2
+2026-01,Spandau,Verkehr,2
+2026-01,Steglitz-Zehlendorf,Betrug,1
+2026-01,Steglitz-Zehlendorf,Politisch motiviert,2
+2026-01,Steglitz-Zehlendorf,Raub und Diebstahl,2
+2026-01,Steglitz-Zehlendorf,Verkehr,4
+2026-01,Steglitz-Zehlendorf,Vermisste und Fahndung,1
+2026-01,Tempelhof-Schöneberg,Betrug,1
+2026-01,Tempelhof-Schöneberg,Gewalt,2
+2026-01,Tempelhof-Schöneberg,Politisch motiviert,1
+2026-01,Tempelhof-Schöneberg,Raub und Diebstahl,1
+2026-01,Tempelhof-Schöneberg,Schusswaffen und OK,1
+2026-01,Tempelhof-Schöneberg,Verkehr,3
+2026-01,Treptow-Köpenick,Raub und Diebstahl,2
+2026-01,Treptow-Köpenick,Verkehr,3
+2026-01,ohne einzelnen Bezirk,Betrug,1
+2026-01,ohne einzelnen Bezirk,Drogen,1
+2026-01,ohne einzelnen Bezirk,Einsatzlage und Versammlung,1
+2026-01,ohne einzelnen Bezirk,Raub und Diebstahl,2
+2026-01,ohne einzelnen Bezirk,Schusswaffen und OK,2
+2026-01,ohne einzelnen Bezirk,Verkehr,1
+2026-01,ohne einzelnen Bezirk,Vermisste und Fahndung,1
+2026-02,Charlottenburg-Wilmersdorf,Brand und Sachbeschädigung,1
+2026-02,Charlottenburg-Wilmersdorf,Gewalt,1
+2026-02,Charlottenburg-Wilmersdorf,Politisch motiviert,1
+2026-02,Charlottenburg-Wilmersdorf,Raub und Diebstahl,3
+2026-02,Charlottenburg-Wilmersdorf,Schusswaffen und OK,2
+2026-02,Charlottenburg-Wilmersdorf,Verkehr,3
+2026-02,Charlottenburg-Wilmersdorf,Vermisste und Fahndung,1
+2026-02,Friedrichshain-Kreuzberg,Brand und Sachbeschädigung,3
+2026-02,Friedrichshain-Kreuzberg,Drogen,1
+2026-02,Friedrichshain-Kreuzberg,Gewalt,1
+2026-02,Friedrichshain-Kreuzberg,Politisch motiviert,3
+2026-02,Friedrichshain-Kreuzberg,Raub und Diebstahl,1
+2026-02,Friedrichshain-Kreuzberg,Schusswaffen und OK,2
+2026-02,Lichtenberg,Brand und Sachbeschädigung,3
+2026-02,Lichtenberg,Gewalt,2
+2026-02,Lichtenberg,Schusswaffen und OK,1
+2026-02,Lichtenberg,Verkehr,3
+2026-02,Marzahn-Hellersdorf,Schusswaffen und OK,1
+2026-02,Marzahn-Hellersdorf,Verkehr,3
+2026-02,Mitte,Brand und Sachbeschädigung,1
+2026-02,Mitte,Einsatzlage und Versammlung,1
+2026-02,Mitte,Gewalt,2
+2026-02,Mitte,Politisch motiviert,3
+2026-02,Mitte,Raub und Diebstahl,1
+2026-02,Mitte,Schusswaffen und OK,1
+2026-02,Neukölln,Gewalt,1
+2026-02,Neukölln,Raub und Diebstahl,2
+2026-02,Neukölln,Schusswaffen und OK,1
+2026-02,Neukölln,Verkehr,2
+2026-02,Pankow,Gewalt,4
+2026-02,Pankow,Raub und Diebstahl,1
+2026-02,Pankow,Schusswaffen und OK,1
+2026-02,Pankow,Verkehr,2
+2026-02,Reinickendorf,Drogen,1
+2026-02,Reinickendorf,Politisch motiviert,1
+2026-02,Reinickendorf,Raub und Diebstahl,1
+2026-02,Reinickendorf,Schusswaffen und OK,1
+2026-02,Reinickendorf,Vermisste und Fahndung,1
+2026-02,Spandau,Brand und Sachbeschädigung,1
+2026-02,Spandau,Drogen,1
+2026-02,Spandau,Raub und Diebstahl,2
+2026-02,Spandau,Schusswaffen und OK,1
+2026-02,Spandau,Verkehr,5
+2026-02,Steglitz-Zehlendorf,Brand und Sachbeschädigung,1
+2026-02,Steglitz-Zehlendorf,Politisch motiviert,1
+2026-02,Steglitz-Zehlendorf,Raub und Diebstahl,2
+2026-02,Tempelhof-Schöneberg,Betrug,1
+2026-02,Tempelhof-Schöneberg,Politisch motiviert,1
+2026-02,Tempelhof-Schöneberg,Schusswaffen und OK,1
+2026-02,Tempelhof-Schöneberg,Verkehr,4
+2026-02,Tempelhof-Schöneberg,Vermisste und Fahndung,1
+2026-02,Treptow-Köpenick,Brand und Sachbeschädigung,1
+2026-02,Treptow-Köpenick,Politisch motiviert,1
+2026-02,Treptow-Köpenick,Raub und Diebstahl,3
+2026-02,Treptow-Köpenick,Schusswaffen und OK,1
+2026-02,Treptow-Köpenick,Verkehr,3
+2026-02,ohne einzelnen Bezirk,Betrug,1
+2026-02,ohne einzelnen Bezirk,Einsatzlage und Versammlung,1
+2026-02,ohne einzelnen Bezirk,Raub und Diebstahl,1
+2026-02,ohne einzelnen Bezirk,Verkehr,1
+2026-03,Charlottenburg-Wilmersdorf,Brand und Sachbeschädigung,1
+2026-03,Charlottenburg-Wilmersdorf,Drogen,1
+2026-03,Charlottenburg-Wilmersdorf,Gewalt,1
+2026-03,Charlottenburg-Wilmersdorf,Schusswaffen und OK,3
+2026-03,Charlottenburg-Wilmersdorf,Verkehr,2
+2026-03,Friedrichshain-Kreuzberg,Brand und Sachbeschädigung,3
+2026-03,Friedrichshain-Kreuzberg,Gewalt,2
+2026-03,Friedrichshain-Kreuzberg,Politisch motiviert,3
+2026-03,Friedrichshain-Kreuzberg,Raub und Diebstahl,1
+2026-03,Friedrichshain-Kreuzberg,Schusswaffen und OK,2
+2026-03,Friedrichshain-Kreuzberg,Verkehr,4
+2026-03,Lichtenberg,Gewalt,2
+2026-03,Lichtenberg,Politisch motiviert,1
+2026-03,Lichtenberg,Raub und Diebstahl,2
+2026-03,Lichtenberg,Verkehr,1
+2026-03,Marzahn-Hellersdorf,Brand und Sachbeschädigung,1
+2026-03,Marzahn-Hellersdorf,Gewalt,4
+2026-03,Marzahn-Hellersdorf,Politisch motiviert,1
+2026-03,Marzahn-Hellersdorf,Raub und Diebstahl,3
+2026-03,Marzahn-Hellersdorf,Schusswaffen und OK,1
+2026-03,Marzahn-Hellersdorf,Sonstiges,1
+2026-03,Marzahn-Hellersdorf,Verkehr,2
+2026-03,Mitte,Drogen,1
+2026-03,Mitte,Einsatzlage und Versammlung,1
+2026-03,Mitte,Gewalt,5
+2026-03,Mitte,Politisch motiviert,1
+2026-03,Mitte,Raub und Diebstahl,1
+2026-03,Mitte,Schusswaffen und OK,1
+2026-03,Mitte,Verkehr,4
+2026-03,Neukölln,Gewalt,3
+2026-03,Neukölln,Politisch motiviert,1
+2026-03,Neukölln,Raub und Diebstahl,1
+2026-03,Neukölln,Schusswaffen und OK,3
+2026-03,Neukölln,Sonstiges,1
+2026-03,Neukölln,Verkehr,3
+2026-03,Pankow,Gewalt,3
+2026-03,Pankow,Politisch motiviert,2
+2026-03,Pankow,Raub und Diebstahl,1
+2026-03,Pankow,Verkehr,2
+2026-03,Reinickendorf,Brand und Sachbeschädigung,1
+2026-03,Reinickendorf,Politisch motiviert,2
+2026-03,Reinickendorf,Raub und Diebstahl,2
+2026-03,Reinickendorf,Verkehr,4
+2026-03,Spandau,Brand und Sachbeschädigung,3
+2026-03,Spandau,Gewalt,4
+2026-03,Spandau,Verkehr,3
+2026-03,Steglitz-Zehlendorf,Raub und Diebstahl,3
+2026-03,Steglitz-Zehlendorf,Verkehr,2
+2026-03,Tempelhof-Schöneberg,Brand und Sachbeschädigung,2
+2026-03,Tempelhof-Schöneberg,Drogen,1
+2026-03,Tempelhof-Schöneberg,Politisch motiviert,1
+2026-03,Tempelhof-Schöneberg,Raub und Diebstahl,2
+2026-03,Tempelhof-Schöneberg,Schusswaffen und OK,1
+2026-03,Tempelhof-Schöneberg,Verkehr,1
+2026-03,Treptow-Köpenick,Drogen,1
+2026-03,Treptow-Köpenick,Gewalt,2
+2026-03,Treptow-Köpenick,Verkehr,3
+2026-03,Treptow-Köpenick,Vermisste und Fahndung,1
+2026-03,ohne einzelnen Bezirk,Drogen,3
+2026-03,ohne einzelnen Bezirk,Einsatzlage und Versammlung,1
+2026-03,ohne einzelnen Bezirk,Politisch motiviert,1
+2026-03,ohne einzelnen Bezirk,Prävention und Service,1
+2026-03,ohne einzelnen Bezirk,Raub und Diebstahl,1
+2026-03,ohne einzelnen Bezirk,Schusswaffen und OK,1
+2026-03,ohne einzelnen Bezirk,Verkehr,2
+2026-03,ohne einzelnen Bezirk,Vermisste und Fahndung,1
+2026-04,Charlottenburg-Wilmersdorf,Brand und Sachbeschädigung,1
+2026-04,Charlottenburg-Wilmersdorf,Einsatzlage und Versammlung,1
+2026-04,Charlottenburg-Wilmersdorf,Gewalt,1
+2026-04,Charlottenburg-Wilmersdorf,Politisch motiviert,3
+2026-04,Charlottenburg-Wilmersdorf,Schusswaffen und OK,1
+2026-04,Charlottenburg-Wilmersdorf,Verkehr,2
+2026-04,Friedrichshain-Kreuzberg,Betrug,1
+2026-04,Friedrichshain-Kreuzberg,Brand und Sachbeschädigung,2
+2026-04,Friedrichshain-Kreuzberg,Drogen,1
+2026-04,Friedrichshain-Kreuzberg,Gewalt,2
+2026-04,Friedrichshain-Kreuzberg,Politisch motiviert,1
+2026-04,Friedrichshain-Kreuzberg,Raub und Diebstahl,3
+2026-04,Friedrichshain-Kreuzberg,Verkehr,1
+2026-04,Lichtenberg,Betrug,1
+2026-04,Lichtenberg,Gewalt,1
+2026-04,Lichtenberg,Raub und Diebstahl,3
+2026-04,Lichtenberg,Sonstiges,1
+2026-04,Lichtenberg,Verkehr,2
+2026-04,Marzahn-Hellersdorf,Brand und Sachbeschädigung,1
+2026-04,Marzahn-Hellersdorf,Drogen,1
+2026-04,Marzahn-Hellersdorf,Gewalt,3
+2026-04,Marzahn-Hellersdorf,Raub und Diebstahl,2
+2026-04,Mitte,Gewalt,5
+2026-04,Mitte,Politisch motiviert,2
+2026-04,Mitte,Raub und Diebstahl,2
+2026-04,Mitte,Schusswaffen und OK,2
+2026-04,Mitte,Verkehr,2
+2026-04,Mitte,Vermisste und Fahndung,1
+2026-04,Neukölln,Brand und Sachbeschädigung,3
+2026-04,Neukölln,Gewalt,3
+2026-04,Neukölln,Raub und Diebstahl,4
+2026-04,Neukölln,Schusswaffen und OK,5
+2026-04,Neukölln,Verkehr,1
+2026-04,Pankow,Gewalt,2
+2026-04,Pankow,Politisch motiviert,2
+2026-04,Pankow,Schusswaffen und OK,1
+2026-04,Pankow,Verkehr,2
+2026-04,Reinickendorf,Brand und Sachbeschädigung,1
+2026-04,Reinickendorf,Gewalt,1
+2026-04,Reinickendorf,Schusswaffen und OK,1
+2026-04,Reinickendorf,Verkehr,1
+2026-04,Reinickendorf,Vermisste und Fahndung,1
+2026-04,Spandau,Brand und Sachbeschädigung,2
+2026-04,Spandau,Politisch motiviert,1
+2026-04,Spandau,Verkehr,2
+2026-04,Steglitz-Zehlendorf,Brand und Sachbeschädigung,1
+2026-04,Steglitz-Zehlendorf,Gewalt,1
+2026-04,Steglitz-Zehlendorf,Politisch motiviert,1
+2026-04,Steglitz-Zehlendorf,Verkehr,7
+2026-04,Tempelhof-Schöneberg,Brand und Sachbeschädigung,1
+2026-04,Tempelhof-Schöneberg,Gewalt,2
+2026-04,Tempelhof-Schöneberg,Politisch motiviert,1
+2026-04,Tempelhof-Schöneberg,Raub und Diebstahl,2
+2026-04,Tempelhof-Schöneberg,Schusswaffen und OK,1
+2026-04,Tempelhof-Schöneberg,Verkehr,3
+2026-04,Treptow-Köpenick,Einsatzlage und Versammlung,1
+2026-04,Treptow-Köpenick,Gewalt,2
+2026-04,Treptow-Köpenick,Politisch motiviert,1
+2026-04,Treptow-Köpenick,Raub und Diebstahl,1
+2026-04,Treptow-Köpenick,Schusswaffen und OK,1
+2026-04,Treptow-Köpenick,Verkehr,2
+2026-04,Treptow-Köpenick,Vermisste und Fahndung,1
+2026-04,ohne einzelnen Bezirk,Betrug,1
+2026-04,ohne einzelnen Bezirk,Raub und Diebstahl,1
+2026-04,ohne einzelnen Bezirk,Schusswaffen und OK,1
+2026-04,ohne einzelnen Bezirk,Verkehr,2
+2026-04,ohne einzelnen Bezirk,Vermisste und Fahndung,1
+2026-05,Charlottenburg-Wilmersdorf,Gewalt,3
+2026-05,Charlottenburg-Wilmersdorf,Politisch motiviert,2
+2026-05,Charlottenburg-Wilmersdorf,Raub und Diebstahl,2
+2026-05,Charlottenburg-Wilmersdorf,Verkehr,5
+2026-05,Friedrichshain-Kreuzberg,Brand und Sachbeschädigung,1
+2026-05,Friedrichshain-Kreuzberg,Drogen,1
+2026-05,Friedrichshain-Kreuzberg,Gewalt,5
+2026-05,Friedrichshain-Kreuzberg,Politisch motiviert,3
+2026-05,Friedrichshain-Kreuzberg,Schusswaffen und OK,3
+2026-05,Friedrichshain-Kreuzberg,Verkehr,2
+2026-05,Lichtenberg,Drogen,1
+2026-05,Lichtenberg,Gewalt,3
+2026-05,Lichtenberg,Raub und Diebstahl,1
+2026-05,Lichtenberg,Verkehr,1
+2026-05,Marzahn-Hellersdorf,Brand und Sachbeschädigung,1
+2026-05,Marzahn-Hellersdorf,Gewalt,2
+2026-05,Marzahn-Hellersdorf,Raub und Diebstahl,2
+2026-05,Marzahn-Hellersdorf,Verkehr,2
+2026-05,Mitte,Brand und Sachbeschädigung,2
+2026-05,Mitte,Gewalt,7
+2026-05,Mitte,Politisch motiviert,4
+2026-05,Mitte,Raub und Diebstahl,1
+2026-05,Mitte,Schusswaffen und OK,3
+2026-05,Mitte,Verkehr,1
+2026-05,Neukölln,Gewalt,1
+2026-05,Neukölln,Politisch motiviert,2
+2026-05,Neukölln,Raub und Diebstahl,2
+2026-05,Neukölln,Schusswaffen und OK,3
+2026-05,Neukölln,Verkehr,4
+2026-05,Neukölln,Vermisste und Fahndung,1
+2026-05,Pankow,Brand und Sachbeschädigung,2
+2026-05,Pankow,Drogen,1
+2026-05,Pankow,Gewalt,2
+2026-05,Pankow,Raub und Diebstahl,1
+2026-05,Pankow,Verkehr,3
+2026-05,Reinickendorf,Gewalt,2
+2026-05,Reinickendorf,Schusswaffen und OK,2
+2026-05,Reinickendorf,Verkehr,4
+2026-05,Spandau,Drogen,1
+2026-05,Spandau,Gewalt,2
+2026-05,Spandau,Politisch motiviert,1
+2026-05,Spandau,Raub und Diebstahl,1
+2026-05,Spandau,Schusswaffen und OK,1
+2026-05,Spandau,Verkehr,1
+2026-05,Steglitz-Zehlendorf,Gewalt,2
+2026-05,Steglitz-Zehlendorf,Politisch motiviert,2
+2026-05,Steglitz-Zehlendorf,Verkehr,1
+2026-05,Steglitz-Zehlendorf,Vermisste und Fahndung,1
+2026-05,Tempelhof-Schöneberg,Gewalt,3
+2026-05,Tempelhof-Schöneberg,Politisch motiviert,2
+2026-05,Tempelhof-Schöneberg,Raub und Diebstahl,3
+2026-05,Tempelhof-Schöneberg,Schusswaffen und OK,5
+2026-05,Tempelhof-Schöneberg,Verkehr,5
+2026-05,Tempelhof-Schöneberg,Vermisste und Fahndung,1
+2026-05,Treptow-Köpenick,Drogen,1
+2026-05,Treptow-Köpenick,Gewalt,2
+2026-05,Treptow-Köpenick,Politisch motiviert,3
+2026-05,Treptow-Köpenick,Raub und Diebstahl,2
+2026-05,Treptow-Köpenick,Verkehr,6
+2026-05,ohne einzelnen Bezirk,Drogen,2
+2026-05,ohne einzelnen Bezirk,Einsatzlage und Versammlung,2
+2026-05,ohne einzelnen Bezirk,Gewalt,1
+2026-05,ohne einzelnen Bezirk,Schusswaffen und OK,2
+2026-05,ohne einzelnen Bezirk,Vermisste und Fahndung,3
+2026-06,Charlottenburg-Wilmersdorf,Gewalt,6
+2026-06,Charlottenburg-Wilmersdorf,Politisch motiviert,1
+2026-06,Charlottenburg-Wilmersdorf,Schusswaffen und OK,1
+2026-06,Charlottenburg-Wilmersdorf,Verkehr,6
+2026-06,Charlottenburg-Wilmersdorf,Vermisste und Fahndung,1
+2026-06,Friedrichshain-Kreuzberg,Brand und Sachbeschädigung,3
+2026-06,Friedrichshain-Kreuzberg,Einsatzlage und Versammlung,1
+2026-06,Friedrichshain-Kreuzberg,Gewalt,5
+2026-06,Friedrichshain-Kreuzberg,Politisch motiviert,4
+2026-06,Friedrichshain-Kreuzberg,Raub und Diebstahl,2
+2026-06,Friedrichshain-Kreuzberg,Schusswaffen und OK,2
+2026-06,Friedrichshain-Kreuzberg,Verkehr,5
+2026-06,Lichtenberg,Brand und Sachbeschädigung,1
+2026-06,Lichtenberg,Gewalt,2
+2026-06,Lichtenberg,Verkehr,4
+2026-06,Marzahn-Hellersdorf,Gewalt,2
+2026-06,Marzahn-Hellersdorf,Politisch motiviert,1
+2026-06,Marzahn-Hellersdorf,Raub und Diebstahl,1
+2026-06,Marzahn-Hellersdorf,Schusswaffen und OK,1
+2026-06,Marzahn-Hellersdorf,Verkehr,1
+2026-06,Mitte,Einsatzlage und Versammlung,3
+2026-06,Mitte,Gewalt,4
+2026-06,Mitte,Politisch motiviert,1
+2026-06,Mitte,Schusswaffen und OK,2
+2026-06,Mitte,Verkehr,6
+2026-06,Neukölln,Brand und Sachbeschädigung,1
+2026-06,Neukölln,Gewalt,3
+2026-06,Neukölln,Raub und Diebstahl,2
+2026-06,Neukölln,Verkehr,3
+2026-06,Neukölln,Vermisste und Fahndung,1
+2026-06,Pankow,Betrug,1
+2026-06,Pankow,Gewalt,2
+2026-06,Pankow,Politisch motiviert,2
+2026-06,Pankow,Raub und Diebstahl,1
+2026-06,Pankow,Verkehr,3
+2026-06,Pankow,Vermisste und Fahndung,1
+2026-06,Reinickendorf,Brand und Sachbeschädigung,2
+2026-06,Reinickendorf,Raub und Diebstahl,1
+2026-06,Reinickendorf,Verkehr,2
+2026-06,Spandau,Gewalt,1
+2026-06,Spandau,Verkehr,1
+2026-06,Steglitz-Zehlendorf,Brand und Sachbeschädigung,1
+2026-06,Steglitz-Zehlendorf,Gewalt,1
+2026-06,Steglitz-Zehlendorf,Raub und Diebstahl,2
+2026-06,Steglitz-Zehlendorf,Schusswaffen und OK,3
+2026-06,Steglitz-Zehlendorf,Verkehr,2
+2026-06,Steglitz-Zehlendorf,Vermisste und Fahndung,1
+2026-06,Tempelhof-Schöneberg,Gewalt,3
+2026-06,Tempelhof-Schöneberg,Politisch motiviert,1
+2026-06,Tempelhof-Schöneberg,Raub und Diebstahl,1
+2026-06,Tempelhof-Schöneberg,Schusswaffen und OK,2
+2026-06,Tempelhof-Schöneberg,Verkehr,3
+2026-06,Treptow-Köpenick,Drogen,1
+2026-06,Treptow-Köpenick,Gewalt,2
+2026-06,Treptow-Köpenick,Raub und Diebstahl,2
+2026-06,Treptow-Köpenick,Schusswaffen und OK,1
+2026-06,Treptow-Köpenick,Verkehr,2
+2026-06,ohne einzelnen Bezirk,Betrug,4
+2026-06,ohne einzelnen Bezirk,Drogen,1
+2026-06,ohne einzelnen Bezirk,Gewalt,2
+2026-06,ohne einzelnen Bezirk,Prävention und Service,2
+2026-06,ohne einzelnen Bezirk,Raub und Diebstahl,1
+2026-06,ohne einzelnen Bezirk,Schusswaffen und OK,3
+2026-06,ohne einzelnen Bezirk,Sonstiges,1
+2026-06,ohne einzelnen Bezirk,Verkehr,1
+2026-06,ohne einzelnen Bezirk,Vermisste und Fahndung,1
+2026-07,Charlottenburg-Wilmersdorf,Betrug,1
+2026-07,Charlottenburg-Wilmersdorf,Drogen,1
+2026-07,Charlottenburg-Wilmersdorf,Gewalt,1
+2026-07,Charlottenburg-Wilmersdorf,Politisch motiviert,1
+2026-07,Charlottenburg-Wilmersdorf,Raub und Diebstahl,2
+2026-07,Charlottenburg-Wilmersdorf,Schusswaffen und OK,3
+2026-07,Charlottenburg-Wilmersdorf,Vermisste und Fahndung,1
+2026-07,Friedrichshain-Kreuzberg,Einsatzlage und Versammlung,1
+2026-07,Friedrichshain-Kreuzberg,Gewalt,4
+2026-07,Friedrichshain-Kreuzberg,Politisch motiviert,1
+2026-07,Friedrichshain-Kreuzberg,Raub und Diebstahl,3
+2026-07,Friedrichshain-Kreuzberg,Schusswaffen und OK,1
+2026-07,Friedrichshain-Kreuzberg,Sonstiges,1
+2026-07,Friedrichshain-Kreuzberg,Verkehr,2
+2026-07,Lichtenberg,Gewalt,1
+2026-07,Lichtenberg,Politisch motiviert,2
+2026-07,Lichtenberg,Raub und Diebstahl,1
+2026-07,Lichtenberg,Verkehr,2
+2026-07,Marzahn-Hellersdorf,Gewalt,1
+2026-07,Marzahn-Hellersdorf,Politisch motiviert,2
+2026-07,Marzahn-Hellersdorf,Raub und Diebstahl,1
+2026-07,Marzahn-Hellersdorf,Schusswaffen und OK,1
+2026-07,Marzahn-Hellersdorf,Verkehr,6
+2026-07,Mitte,Einsatzlage und Versammlung,1
+2026-07,Mitte,Gewalt,5
+2026-07,Mitte,Politisch motiviert,4
+2026-07,Mitte,Raub und Diebstahl,4
+2026-07,Mitte,Schusswaffen und OK,2
+2026-07,Mitte,Verkehr,4
+2026-07,Mitte,Vermisste und Fahndung,1
+2026-07,Neukölln,Gewalt,3
+2026-07,Neukölln,Politisch motiviert,2
+2026-07,Neukölln,Raub und Diebstahl,1
+2026-07,Neukölln,Schusswaffen und OK,4
+2026-07,Neukölln,Verkehr,1
+2026-07,Pankow,Politisch motiviert,1
+2026-07,Pankow,Raub und Diebstahl,2
+2026-07,Pankow,Vermisste und Fahndung,1
+2026-07,Reinickendorf,Brand und Sachbeschädigung,1
+2026-07,Reinickendorf,Gewalt,1
+2026-07,Reinickendorf,Schusswaffen und OK,2
+2026-07,Reinickendorf,Verkehr,6
+2026-07,Spandau,Brand und Sachbeschädigung,2
+2026-07,Spandau,Gewalt,1
+2026-07,Spandau,Politisch motiviert,2
+2026-07,Spandau,Raub und Diebstahl,1
+2026-07,Spandau,Schusswaffen und OK,1
+2026-07,Spandau,Verkehr,3
+2026-07,Steglitz-Zehlendorf,Brand und Sachbeschädigung,2
+2026-07,Steglitz-Zehlendorf,Gewalt,2
+2026-07,Steglitz-Zehlendorf,Verkehr,2
+2026-07,Steglitz-Zehlendorf,Vermisste und Fahndung,1
+2026-07,Tempelhof-Schöneberg,Gewalt,5
+2026-07,Tempelhof-Schöneberg,Raub und Diebstahl,2
+2026-07,Tempelhof-Schöneberg,Schusswaffen und OK,1
+2026-07,Tempelhof-Schöneberg,Verkehr,3
+2026-07,Treptow-Köpenick,Politisch motiviert,1
+2026-07,Treptow-Köpenick,Raub und Diebstahl,1
+2026-07,Treptow-Köpenick,Schusswaffen und OK,2
+2026-07,Treptow-Köpenick,Verkehr,3
+2026-07,Treptow-Köpenick,Vermisste und Fahndung,1
+2026-07,ohne einzelnen Bezirk,Betrug,1
+2026-07,ohne einzelnen Bezirk,Politisch motiviert,2
+2026-07,ohne einzelnen Bezirk,Raub und Diebstahl,1
+2026-07,ohne einzelnen Bezirk,Schusswaffen und OK,3
+2026-07,ohne einzelnen Bezirk,Sonstiges,1
+2026-07,ohne einzelnen Bezirk,Verkehr,1
+2026-07,ohne einzelnen Bezirk,Vermisste und Fahndung,1
+2026-08,Charlottenburg-Wilmersdorf,Brand und Sachbeschädigung,1
+2026-08,Charlottenburg-Wilmersdorf,Drogen,1
+2026-08,Charlottenburg-Wilmersdorf,Politisch motiviert,1
+2026-08,Charlottenburg-Wilmersdorf,Schusswaffen und OK,1
+2026-08,Charlottenburg-Wilmersdorf,Verkehr,2
+2026-08,Charlottenburg-Wilmersdorf,Vermisste und Fahndung,1
+2026-08,Friedrichshain-Kreuzberg,Brand und Sachbeschädigung,1
+2026-08,Friedrichshain-Kreuzberg,Gewalt,2
+2026-08,Friedrichshain-Kreuzberg,Politisch motiviert,5
+2026-08,Friedrichshain-Kreuzberg,Raub und Diebstahl,2
+2026-08,Friedrichshain-Kreuzberg,Schusswaffen und OK,1
+2026-08,Friedrichshain-Kreuzberg,Verkehr,1
+2026-08,Friedrichshain-Kreuzberg,Vermisste und Fahndung,1
+2026-08,Lichtenberg,Betrug,1
+2026-08,Lichtenberg,Politisch motiviert,2
+2026-08,Lichtenberg,Sonstiges,1
+2026-08,Lichtenberg,Verkehr,3
+2026-08,Marzahn-Hellersdorf,Brand und Sachbeschädigung,1
+2026-08,Marzahn-Hellersdorf,Drogen,1
+2026-08,Marzahn-Hellersdorf,Gewalt,4
+2026-08,Marzahn-Hellersdorf,Raub und Diebstahl,1
+2026-08,Marzahn-Hellersdorf,Verkehr,3
+2026-08,Mitte,Betrug,2
+2026-08,Mitte,Brand und Sachbeschädigung,1
+2026-08,Mitte,Einsatzlage und Versammlung,1
+2026-08,Mitte,Gewalt,5
+2026-08,Mitte,Politisch motiviert,5
+2026-08,Mitte,Verkehr,1
+2026-08,Neukölln,Betrug,1
+2026-08,Neukölln,Gewalt,2
+2026-08,Neukölln,Politisch motiviert,1
+2026-08,Neukölln,Raub und Diebstahl,2
+2026-08,Neukölln,Schusswaffen und OK,1
+2026-08,Neukölln,Verkehr,3
+2026-08,Neukölln,Vermisste und Fahndung,1
+2026-08,Pankow,Betrug,1
+2026-08,Pankow,Gewalt,2
+2026-08,Pankow,Politisch motiviert,2
+2026-08,Pankow,Raub und Diebstahl,1
+2026-08,Pankow,Schusswaffen und OK,1
+2026-08,Pankow,Verkehr,4
+2026-08,Pankow,Vermisste und Fahndung,1
+2026-08,Reinickendorf,Betrug,1
+2026-08,Reinickendorf,Gewalt,1
+2026-08,Reinickendorf,Schusswaffen und OK,1
+2026-08,Reinickendorf,Verkehr,2
+2026-08,Spandau,Brand und Sachbeschädigung,1
+2026-08,Spandau,Politisch motiviert,1
+2026-08,Spandau,Raub und Diebstahl,2
+2026-08,Spandau,Schusswaffen und OK,1
+2026-08,Spandau,Verkehr,2
+2026-08,Steglitz-Zehlendorf,Raub und Diebstahl,1
+2026-08,Steglitz-Zehlendorf,Schusswaffen und OK,1
+2026-08,Steglitz-Zehlendorf,Verkehr,3
+2026-08,Tempelhof-Schöneberg,Brand und Sachbeschädigung,1
+2026-08,Tempelhof-Schöneberg,Gewalt,4
+2026-08,Tempelhof-Schöneberg,Politisch motiviert,2
+2026-08,Tempelhof-Schöneberg,Raub und Diebstahl,3
+2026-08,Tempelhof-Schöneberg,Schusswaffen und OK,2
+2026-08,Tempelhof-Schöneberg,Sonstiges,1
+2026-08,Tempelhof-Schöneberg,Verkehr,1
+2026-08,Treptow-Köpenick,Brand und Sachbeschädigung,2
+2026-08,Treptow-Köpenick,Gewalt,2
+2026-08,Treptow-Köpenick,Politisch motiviert,3
+2026-08,Treptow-Köpenick,Schusswaffen und OK,2
+2026-08,Treptow-Köpenick,Sonstiges,1
+2026-08,Treptow-Köpenick,Verkehr,2
+2026-08,Treptow-Köpenick,Vermisste und Fahndung,1
+2026-08,ohne einzelnen Bezirk,Politisch motiviert,8
+2026-08,ohne einzelnen Bezirk,Prävention und Service,2
+2026-08,ohne einzelnen Bezirk,Schusswaffen und OK,3
+2026-08,ohne einzelnen Bezirk,Verkehr,1
+2026-09,Charlottenburg-Wilmersdorf,Brand und Sachbeschädigung,1
+2026-09,Charlottenburg-Wilmersdorf,Politisch motiviert,1
+2026-09,Charlottenburg-Wilmersdorf,Raub und Diebstahl,5
+2026-09,Charlottenburg-Wilmersdorf,Verkehr,1
+2026-09,Friedrichshain-Kreuzberg,Brand und Sachbeschädigung,1
+2026-09,Friedrichshain-Kreuzberg,Drogen,1
+2026-09,Friedrichshain-Kreuzberg,Gewalt,4
+2026-09,Friedrichshain-Kreuzberg,Politisch motiviert,6
+2026-09,Friedrichshain-Kreuzberg,Raub und Diebstahl,2
+2026-09,Friedrichshain-Kreuzberg,Schusswaffen und OK,2
+2026-09,Friedrichshain-Kreuzberg,Verkehr,1
+2026-09,Lichtenberg,Betrug,1
+2026-09,Lichtenberg,Brand und Sachbeschädigung,1
+2026-09,Lichtenberg,Sonstiges,1
+2026-09,Lichtenberg,Verkehr,1
+2026-09,Marzahn-Hellersdorf,Brand und Sachbeschädigung,2
+2026-09,Marzahn-Hellersdorf,Gewalt,3
+2026-09,Marzahn-Hellersdorf,Schusswaffen und OK,1
+2026-09,Marzahn-Hellersdorf,Verkehr,3
+2026-09,Marzahn-Hellersdorf,Vermisste und Fahndung,1
+2026-09,Mitte,Brand und Sachbeschädigung,1
+2026-09,Mitte,Einsatzlage und Versammlung,3
+2026-09,Mitte,Gewalt,4
+2026-09,Mitte,Politisch motiviert,8
+2026-09,Mitte,Raub und Diebstahl,3
+2026-09,Mitte,Schusswaffen und OK,1
+2026-09,Mitte,Verkehr,4
+2026-09,Mitte,Vermisste und Fahndung,1
+2026-09,Neukölln,Gewalt,1
+2026-09,Neukölln,Politisch motiviert,2
+2026-09,Neukölln,Raub und Diebstahl,4
+2026-09,Neukölln,Schusswaffen und OK,4
+2026-09,Neukölln,Verkehr,2
+2026-09,Pankow,Brand und Sachbeschädigung,1
+2026-09,Pankow,Gewalt,2
+2026-09,Pankow,Politisch motiviert,6
+2026-09,Pankow,Raub und Diebstahl,2
+2026-09,Pankow,Schusswaffen und OK,1
+2026-09,Pankow,Verkehr,8
+2026-09,Pankow,Vermisste und Fahndung,1
+2026-09,Reinickendorf,Brand und Sachbeschädigung,1
+2026-09,Reinickendorf,Gewalt,2
+2026-09,Reinickendorf,Politisch motiviert,2
+2026-09,Reinickendorf,Schusswaffen und OK,1
+2026-09,Reinickendorf,Verkehr,2
+2026-09,Reinickendorf,Vermisste und Fahndung,1
+2026-09,Spandau,Einsatzlage und Versammlung,1
+2026-09,Spandau,Gewalt,1
+2026-09,Spandau,Prävention und Service,2
+2026-09,Spandau,Raub und Diebstahl,2
+2026-09,Spandau,Schusswaffen und OK,1
+2026-09,Spandau,Verkehr,1
+2026-09,Spandau,Vermisste und Fahndung,1
+2026-09,Steglitz-Zehlendorf,Brand und Sachbeschädigung,3
+2026-09,Steglitz-Zehlendorf,Gewalt,1
+2026-09,Steglitz-Zehlendorf,Politisch motiviert,3
+2026-09,Steglitz-Zehlendorf,Raub und Diebstahl,1
+2026-09,Steglitz-Zehlendorf,Schusswaffen und OK,2
+2026-09,Steglitz-Zehlendorf,Verkehr,3
+2026-09,Steglitz-Zehlendorf,Vermisste und Fahndung,1
+2026-09,Tempelhof-Schöneberg,Brand und Sachbeschädigung,1
+2026-09,Tempelhof-Schöneberg,Drogen,1
+2026-09,Tempelhof-Schöneberg,Politisch motiviert,5
+2026-09,Tempelhof-Schöneberg,Prävention und Service,1
+2026-09,Tempelhof-Schöneberg,Raub und Diebstahl,2
+2026-09,Tempelhof-Schöneberg,Schusswaffen und OK,3
+2026-09,Tempelhof-Schöneberg,Verkehr,6
+2026-09,Treptow-Köpenick,Schusswaffen und OK,2
+2026-09,Treptow-Köpenick,Verkehr,3
+2026-09,ohne einzelnen Bezirk,Drogen,1
+2026-09,ohne einzelnen Bezirk,Politisch motiviert,1
+2026-09,ohne einzelnen Bezirk,Prävention und Service,2
+2026-09,ohne einzelnen Bezirk,Raub und Diebstahl,1
+2026-09,ohne einzelnen Bezirk,Schusswaffen und OK,2
+2026-09,ohne einzelnen Bezirk,Sonstiges,2
+2026-09,ohne einzelnen Bezirk,Verkehr,1
+2026-09,ohne einzelnen Bezirk,Vermisste und Fahndung,2
+2026-10,Charlottenburg-Wilmersdorf,Gewalt,4
+2026-10,Charlottenburg-Wilmersdorf,Politisch motiviert,1
+2026-10,Charlottenburg-Wilmersdorf,Raub und Diebstahl,1
+2026-10,Charlottenburg-Wilmersdorf,Schusswaffen und OK,3
+2026-10,Charlottenburg-Wilmersdorf,Verkehr,2
+2026-10,Friedrichshain-Kreuzberg,Brand und Sachbeschädigung,1
+2026-10,Friedrichshain-Kreuzberg,Drogen,1
+2026-10,Friedrichshain-Kreuzberg,Gewalt,3
+2026-10,Friedrichshain-Kreuzberg,Politisch motiviert,3
+2026-10,Friedrichshain-Kreuzberg,Raub und Diebstahl,3
+2026-10,Friedrichshain-Kreuzberg,Verkehr,2
+2026-10,Lichtenberg,Brand und Sachbeschädigung,1
+2026-10,Lichtenberg,Gewalt,2
+2026-10,Lichtenberg,Sonstiges,1
+2026-10,Lichtenberg,Verkehr,5
+2026-10,Marzahn-Hellersdorf,Brand und Sachbeschädigung,1
+2026-10,Marzahn-Hellersdorf,Gewalt,4
+2026-10,Marzahn-Hellersdorf,Schusswaffen und OK,1
+2026-10,Marzahn-Hellersdorf,Verkehr,5
+2026-10,Mitte,Brand und Sachbeschädigung,1
+2026-10,Mitte,Gewalt,5
+2026-10,Mitte,Politisch motiviert,1
+2026-10,Mitte,Schusswaffen und OK,2
+2026-10,Mitte,Verkehr,3
+2026-10,Neukölln,Betrug,1
+2026-10,Neukölln,Brand und Sachbeschädigung,2
+2026-10,Neukölln,Raub und Diebstahl,4
+2026-10,Neukölln,Schusswaffen und OK,4
+2026-10,Neukölln,Sonstiges,1
+2026-10,Pankow,Politisch motiviert,2
+2026-10,Pankow,Raub und Diebstahl,1
+2026-10,Pankow,Verkehr,2
+2026-10,Reinickendorf,Schusswaffen und OK,1
+2026-10,Reinickendorf,Verkehr,1
+2026-10,Reinickendorf,Vermisste und Fahndung,1
+2026-10,Spandau,Drogen,1
+2026-10,Spandau,Raub und Diebstahl,2
+2026-10,Spandau,Verkehr,4
+2026-10,Steglitz-Zehlendorf,Raub und Diebstahl,1
+2026-10,Steglitz-Zehlendorf,Verkehr,2
+2026-10,Tempelhof-Schöneberg,Betrug,1
+2026-10,Tempelhof-Schöneberg,Gewalt,1
+2026-10,Tempelhof-Schöneberg,Politisch motiviert,1
+2026-10,Tempelhof-Schöneberg,Verkehr,2
+2026-10,Treptow-Köpenick,Gewalt,4
+2026-10,Treptow-Köpenick,Raub und Diebstahl,1
+2026-10,Treptow-Köpenick,Sonstiges,1
+2026-10,Treptow-Köpenick,Verkehr,1
+2026-10,ohne einzelnen Bezirk,Betrug,1
+2026-10,ohne einzelnen Bezirk,Einsatzlage und Versammlung,1
+2026-10,ohne einzelnen Bezirk,Gewalt,1
+2026-10,ohne einzelnen Bezirk,Politisch motiviert,2
+2026-10,ohne einzelnen Bezirk,Prävention und Service,2
+2026-10,ohne einzelnen Bezirk,Schusswaffen und OK,1
+2026-10,ohne einzelnen Bezirk,Verkehr,2
+2026-10,ohne einzelnen Bezirk,Vermisste und Fahndung,1

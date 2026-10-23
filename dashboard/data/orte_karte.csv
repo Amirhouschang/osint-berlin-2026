@@ -1,0 +1,169 @@
+ort,bezirk,lat,lon,meldungen,kbo,haeufigste_kategorie
+Sonnenallee,Neukölln,52.4663499,13.4705028,12,False,Verkehr
+Mehringdamm,Friedrichshain-Kreuzberg,52.4941308,13.3886168,11,False,Verkehr
+Görlitzer Park,Friedrichshain-Kreuzberg,52.496579,13.4376053,10,True,Gewalt
+Johannisthaler Chaussee,Neukölln,52.4293213,13.4533376,10,False,Raub und Diebstahl
+Skalitzer Straße,Friedrichshain-Kreuzberg,52.5004259,13.4395619,9,False,Gewalt
+Hermannstraße,Neukölln,52.4672622,13.4314659,9,True,Schusswaffen und OK
+Mariendorfer Damm,Tempelhof-Schöneberg,52.4331126,13.3907981,9,False,Verkehr
+Karl-Marx-Straße,Neukölln,52.4762696,13.4393375,9,False,Gewalt
+Frankfurter Allee,Lichtenberg,52.5136227,13.4754364,8,False,Politisch motiviert
+Rigaer Straße,Friedrichshain-Kreuzberg,52.5161062,13.4666051,8,True,Politisch motiviert
+Heerstraße,Spandau,52.5230455,13.148242,8,False,Verkehr
+Berliner Allee,Pankow,52.5497112,13.4578332,8,False,Verkehr
+Baumschulenweg,Treptow-Köpenick,52.4674002,13.4898621,8,False,Verkehr
+Tempelhofer Damm,Tempelhof-Schöneberg,52.4545934,13.3842456,7,False,Verkehr
+Hellersdorfer Straße,Marzahn-Hellersdorf,52.5304917,13.5909809,7,False,Gewalt
+Schönhauser Allee,Pankow,52.549243,13.4155955,7,False,Verkehr
+Blumberger Damm,Marzahn-Hellersdorf,52.5417157,13.5692614,7,False,Verkehr
+Roedernallee,Reinickendorf,52.5916314,13.3363484,7,False,Verkehr
+Greifswalder Straße,Pankow,52.5402462,13.4389887,7,False,Verkehr
+Lichtenrader Damm,Tempelhof-Schöneberg,52.4015928,13.4064624,6,False,Verkehr
+Frankfurter Allee,Friedrichshain-Kreuzberg,52.5136227,13.4754364,6,False,Gewalt
+Lindauer Allee,Reinickendorf,52.5754161,13.3384251,6,False,Verkehr
+Kaiser-Wilhelm-Straße,Steglitz-Zehlendorf,52.4365948,13.3461677,6,False,Verkehr
+Bülowstraße,Tempelhof-Schöneberg,52.4975858,13.3632209,6,False,Politisch motiviert
+Landsberger Allee,Lichtenberg,52.534796,13.5092811,6,False,Verkehr
+Schloßstraße,Steglitz-Zehlendorf,52.461481,13.3250946,6,False,Politisch motiviert
+Brunsbütteler Damm,Spandau,52.5353308,13.1372459,6,False,Verkehr
+Paul-Löbe-Allee,Mitte,52.5195697,13.3749199,6,False,Einsatzlage und Versammlung
+Danziger Straße,Pankow,52.5398643,13.4192323,6,False,Verkehr
+Müllerstraße,Mitte,52.5421409,13.3664501,6,False,Verkehr
+Reinickendorfer Straße,Mitte,52.5400429,13.3702888,6,False,Gewalt
+Hohenzollerndamm,Charlottenburg-Wilmersdorf,52.488627,13.3002415,6,False,Verkehr
+Alexanderplatz,Mitte,52.5219814,13.4136358,6,True,Politisch motiviert
+U-Bahnhof Kottbusser Tor,Friedrichshain-Kreuzberg,52.4989853,13.4183107,5,True,Raub und Diebstahl
+Residenzstraße,Reinickendorf,52.5711895,13.3604739,5,False,Verkehr
+Karl-Liebknecht-Straße,Mitte,52.5211363,13.4071702,5,False,Gewalt
+Oranienstraße,Friedrichshain-Kreuzberg,52.5045767,13.4074045,5,False,Gewalt
+Kronprinzessinnenweg,Steglitz-Zehlendorf,52.438704,13.1971961,5,False,Verkehr
+Uhlandstraße,Charlottenburg-Wilmersdorf,52.5028118,13.3266968,5,False,Raub und Diebstahl
+Wilhelmstraße,Friedrichshain-Kreuzberg,52.5050941,13.3867232,5,False,Verkehr
+Heerstraße,Charlottenburg-Wilmersdorf,52.5076328,13.2231366,5,False,Verkehr
+Fritz-Erler-Allee,Neukölln,52.4266922,13.4698065,5,False,Verkehr
+Alexanderstraße,Mitte,52.5215405,13.4161613,5,False,Gewalt
+Gutschmidtstraße,Neukölln,52.4373274,13.442947,5,False,Verkehr
+Adalbertstraße,Friedrichshain-Kreuzberg,52.500531,13.4187525,5,False,Politisch motiviert
+Berliner Straße,Charlottenburg-Wilmersdorf,52.4873298,13.3310103,5,False,Verkehr
+Ahornsteig,Mitte,52.5129971,13.372616,4,False,Politisch motiviert
+Graefestraße,Friedrichshain-Kreuzberg,52.4881922,13.4140984,4,False,Schusswaffen und OK
+Anita-Berber-Park,Neukölln,52.4719188,13.424505,4,False,Schusswaffen und OK
+Warschauer Straße,Friedrichshain-Kreuzberg,52.505014,13.4490065,4,False,Politisch motiviert
+Volkspark Hasenheide,Neukölln,52.4845043,13.4167339,4,False,Schusswaffen und OK
+Messedamm,Charlottenburg-Wilmersdorf,52.5017461,13.2758888,4,False,Verkehr
+Eichborndamm,Reinickendorf,52.5776294,13.3166204,4,False,Verkehr
+Mehrower Allee,Marzahn-Hellersdorf,52.557608,13.5535509,4,False,Raub und Diebstahl
+Otto-Suhr-Allee,Charlottenburg-Wilmersdorf,52.5143806,13.3163747,4,False,Schusswaffen und OK
+Yorckstraße,Friedrichshain-Kreuzberg,52.4925375,13.3802674,4,False,Brand und Sachbeschädigung
+Urbanstraße,Friedrichshain-Kreuzberg,52.4903062,13.4184233,4,False,Verkehr
+Uhlandstraße,,52.5028118,13.3266968,4,False,Politisch motiviert
+Cecilienstraße,Marzahn-Hellersdorf,52.5250048,13.5811946,4,False,Verkehr
+Pillnitzer Weg,Spandau,52.523406,13.1603654,4,False,Verkehr
+Platz der Republik,Mitte,52.5186753,13.3731249,4,False,Einsatzlage und Versammlung
+Pankstraße,Mitte,52.5522617,13.3814583,4,False,Gewalt
+Magistratsweg,Spandau,52.5253725,13.1610513,4,False,Verkehr
+Prenzlauer Allee,Pankow,52.5364151,13.4227225,4,False,Verkehr
+Ebertstraße,Mitte,52.5159228,13.3772599,4,False,Einsatzlage und Versammlung
+Kurfürstenstraße,Tempelhof-Schöneberg,52.4467767,13.3703667,4,False,Schusswaffen und OK
+Beusselstraße,Mitte,52.5344077,13.3293873,4,False,Gewalt
+Steinmetzstraße,Tempelhof-Schöneberg,52.4937685,13.3625743,4,False,Schusswaffen und OK
+Hermannplatz,,52.4862857,13.4245531,4,True,Drogen
+Görlitzer Straße,Friedrichshain-Kreuzberg,52.4984963,13.4345101,4,False,Brand und Sachbeschädigung
+Wilmersdorfer Straße,Charlottenburg-Wilmersdorf,52.5066749,13.3066372,4,False,Politisch motiviert
+Albrechtstraße,Steglitz-Zehlendorf,52.4494125,13.3381265,4,False,Raub und Diebstahl
+Badstraße,Mitte,52.552643,13.380356,4,False,Einsatzlage und Versammlung
+Tierpark,Lichtenberg,52.4977241,13.5229595,4,False,Verkehr
+Theodor-Heuss-Platz,Charlottenburg-Wilmersdorf,52.5099869,13.2722217,4,False,Politisch motiviert
+Friedrichstraße,Mitte,52.5188526,13.3883768,4,False,Verkehr
+Köpenicker Landstraße,Treptow-Köpenick,52.4766477,13.4799537,4,False,Verkehr
+Osdorfer Straße,Steglitz-Zehlendorf,52.4188742,13.3142499,4,False,Verkehr
+Mehringbrücke,Friedrichshain-Kreuzberg,52.4978367,13.3888671,4,False,Verkehr
+Brunnenstraße,Mitte,52.5462085,13.3897731,4,False,Verkehr
+Kantstraße,Charlottenburg-Wilmersdorf,52.5062538,13.3132603,4,False,Verkehr
+Scheidemannstraße,Mitte,52.5177739,13.3723128,4,False,Einsatzlage und Versammlung
+Schnellerstraße,Treptow-Köpenick,52.462855,13.5003144,4,False,Verkehr
+Ringbahnstraße,Tempelhof-Schöneberg,52.4673258,13.391768,4,False,Raub und Diebstahl
+Landsberger Allee,Marzahn-Hellersdorf,52.5480739,13.5793772,4,False,Verkehr
+Liebigstraße,Friedrichshain-Kreuzberg,52.516267,13.4588951,4,False,Politisch motiviert
+Bismarckstraße,Charlottenburg-Wilmersdorf,52.5115148,13.3052393,4,False,Gewalt
+Seestraße,Mitte,52.5498029,13.3531176,4,False,Verkehr
+Herzbergstraße,Lichtenberg,52.5263209,13.5019641,4,False,Sonstiges
+Kaiserdamm,Charlottenburg-Wilmersdorf,52.5100921,13.2831263,4,False,Verkehr
+Wendenschloßstraße,Treptow-Köpenick,52.4180956,13.5891188,4,False,Schusswaffen und OK
+Streitstraße,Spandau,52.5637766,13.2087677,3,False,Verkehr
+Hermannplatz,Neukölln,52.4862857,13.4245531,3,True,Schusswaffen und OK
+Alboinstraße,Tempelhof-Schöneberg,52.4688976,13.3708855,3,False,Betrug
+Wilhelminenhofstraße,Treptow-Köpenick,52.4561653,13.5294768,3,False,Gewalt
+Genter Straße,Mitte,52.5477135,13.3532074,3,False,Verkehr
+Zossener Straße,Marzahn-Hellersdorf,52.543896,13.6007508,3,False,Verkehr
+Stromstraße,Mitte,52.5260841,13.3429839,3,False,Verkehr
+U-Bahnhof Alexanderplatz,Mitte,52.5215849,13.4139082,3,True,Raub und Diebstahl
+Treptower Park,Treptow-Köpenick,52.4884438,13.4703145,3,False,Einsatzlage und Versammlung
+Straße des 17. Juni,,52.5148712,13.3567688,3,False,Verkehr
+Hermannstraße,,52.4672622,13.4314659,3,True,Verkehr
+Helene-Weigel-Platz,Marzahn-Hellersdorf,52.5287542,13.537467,3,False,Brand und Sachbeschädigung
+Hauptstraße,Tempelhof-Schöneberg,52.4853384,13.3544836,3,False,Verkehr
+Stendaler Straße,Marzahn-Hellersdorf,52.5408604,13.6041479,3,False,Verkehr
+Heinrich-von-Gagern-Straße,Mitte,52.5185874,13.3708544,3,False,Einsatzlage und Versammlung
+Berliner Straße,Pankow,52.5584104,13.4137201,3,False,Verkehr
+Berliner Straße,Steglitz-Zehlendorf,52.4408268,13.2790819,3,False,Verkehr
+Holländerstraße,Reinickendorf,52.5631231,13.3442356,3,False,Verkehr
+Jaczostraße,Spandau,52.514134,13.1910706,3,False,Verkehr
+Friedrich-Ebert-Platz,Mitte,52.5186538,13.377171,3,False,Einsatzlage und Versammlung
+Stuttgarter Platz,Charlottenburg-Wilmersdorf,52.5052129,13.302288,3,False,Brand und Sachbeschädigung
+Salvador-Allende-Straße,Treptow-Köpenick,52.4485666,13.5938097,3,False,Verkehr
+Kurfürstendamm,Charlottenburg-Wilmersdorf,52.4979725,13.2957664,3,False,Schusswaffen und OK
+Krossener Straße,Friedrichshain-Kreuzberg,52.5100664,13.4615189,3,False,Gewalt
+Kladower Damm,Spandau,52.4672224,13.1654161,3,False,Verkehr
+Falkenberger Chaussee,Lichtenberg,52.5620297,13.5020245,3,False,Verkehr
+Buschallee,,52.5527027,13.4832111,3,False,Vermisste und Fahndung
+Rhinstraße,Lichtenberg,52.5416146,13.5125621,3,False,Verkehr
+Buckower Chaussee,Tempelhof-Schöneberg,52.4105417,13.3827559,3,False,Brand und Sachbeschädigung
+Buckower Damm,Neukölln,52.4339715,13.4353106,3,False,Gewalt
+Rudower Straße,Neukölln,52.436459,13.4652012,3,False,Raub und Diebstahl
+Ruhlebener Straße,Spandau,52.5309793,13.2032879,3,False,Brand und Sachbeschädigung
+Boxhagener Platz,Friedrichshain-Kreuzberg,52.5108076,13.459703,3,False,Gewalt
+Schulzendorfer Straße,Reinickendorf,52.6128595,13.2301953,3,False,Verkehr
+Falkenseer Platz,Spandau,52.5400425,13.2038646,3,False,Verkehr
+Katzbachstraße,Friedrichshain-Kreuzberg,52.4903783,13.3767455,3,False,Verkehr
+Invalidenstraße,Mitte,52.5298225,13.3804089,3,False,Verkehr
+Kaiser-Friedrich-Straße,Charlottenburg-Wilmersdorf,52.5081953,13.30215,3,False,Gewalt
+John-Foster-Dulles-Allee,Mitte,52.5168886,13.3569993,3,False,Einsatzlage und Versammlung
+Schönefelder Chaussee,Treptow-Köpenick,52.4112871,13.5279309,3,False,Verkehr
+Silbersteinstraße,Neukölln,52.4660669,13.4288256,3,False,Schusswaffen und OK
+Schwedenstraße,Mitte,52.5548739,13.3760533,3,False,Verkehr
+Blissestraße,Charlottenburg-Wilmersdorf,52.4864895,13.3205449,3,False,Verkehr
+Segelfliegerdamm,Treptow-Köpenick,52.443838,13.5098813,3,False,Einsatzlage und Versammlung
+Sonnenallee,,52.4874275,13.4262706,3,False,Einsatzlage und Versammlung
+Bellevueallee,Mitte,52.5131822,13.3653183,3,False,Politisch motiviert
+Kottbusser Tor,Friedrichshain-Kreuzberg,52.4989853,13.4183107,3,True,Gewalt
+Konrad-Wolf-Straße,Lichtenberg,52.5467885,13.4981673,3,False,Raub und Diebstahl
+Jessnerstraße,Friedrichshain-Kreuzberg,52.511363,13.4720222,3,False,Politisch motiviert
+Sachsendamm,Tempelhof-Schöneberg,52.47384,13.3643396,3,False,Verkehr
+Rudower Chaussee,Treptow-Köpenick,52.4285082,13.523139,3,False,Verkehr
+Scharnweberstraße,Reinickendorf,52.5668172,13.3126219,3,False,Schusswaffen und OK
+Ruschestraße,Lichtenberg,52.5171421,13.4854446,3,False,Verkehr
+Reichenberger Straße,Friedrichshain-Kreuzberg,52.4964237,13.4273462,3,False,Gewalt
+Potsdamer Straße,Tempelhof-Schöneberg,52.4051263,13.4094468,3,False,Brand und Sachbeschädigung
+Marzahner Chaussee,Marzahn-Hellersdorf,52.5156886,13.5267131,3,False,Raub und Diebstahl
+Clayallee,Steglitz-Zehlendorf,52.4435911,13.266571,3,False,Verkehr
+Potsdamer Straße,,52.497446,13.3618622,3,False,Einsatzlage und Versammlung
+Prenzlauer Promenade,Pankow,52.5592584,13.4284885,3,False,Gewalt
+Putlitzbrücke,Mitte,52.5346371,13.3435069,3,False,Politisch motiviert
+Potsdamer Straße,Mitte,52.5014058,13.3642121,3,False,Einsatzlage und Versammlung
+Britzer Damm,Neukölln,52.4471611,13.4349508,3,False,Schusswaffen und OK
+Dominicusstraße,Tempelhof-Schöneberg,52.4834234,13.3461898,3,False,Gewalt
+Drakestraße,Steglitz-Zehlendorf,52.4327736,13.307878,3,False,Verkehr
+Naunynstraße,Friedrichshain-Kreuzberg,52.5005898,13.4259805,3,False,Schusswaffen und OK
+Michael-Brückner-Straße,Treptow-Köpenick,52.4546553,13.5120422,3,False,Drogen
+Elisabethstraße,Marzahn-Hellersdorf,52.5340373,13.5584279,3,False,Verkehr
+Charlottenstraße,Mitte,52.5136163,13.3912824,3,False,Verkehr
+Pichelsdorfer Straße,Spandau,52.5154359,13.1972671,3,False,Verkehr
+Charlottenburger Chaussee,Spandau,52.525544,13.2432001,3,False,Prävention und Service
+Goerzallee,Steglitz-Zehlendorf,52.4111736,13.275206,3,False,Gewalt
+Aroser Allee,Reinickendorf,52.5632264,13.3531087,3,False,Verkehr
+Wollankstraße,Pankow,52.5671873,13.3975893,3,False,Schusswaffen und OK
+Wuhletalstraße,Marzahn-Hellersdorf,52.5611156,13.562325,3,False,Verkehr
+Baumschulenstraße,Treptow-Köpenick,52.4625018,13.4833318,3,False,Verkehr
+Großbeerenstraße,Friedrichshain-Kreuzberg,52.4958385,13.3842665,3,False,Verkehr
+Waldemarstraße,Friedrichshain-Kreuzberg,52.5042102,13.4171437,3,False,Brand und Sachbeschädigung
