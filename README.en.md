@@ -9,7 +9,7 @@ A picture of public safety in Berlin from January to October 2026, from open sou
 Berlin from the GDELT Global Knowledge Graph. The project shows what the police report on, when and in which
 districts, and where police reports and media coverage differ.
 
-**[Open the interactive dashboard](LINK FOLGT)** · [Notebook](osint_berlin_2026.ipynb)
+**[Open the interactive dashboard](https://osint-berlin-2026.streamlit.app/?lang=en)** · [Notebook](osint_berlin_2026.ipynb)
 
 ![Police reports and media articles per month, January to October 2026](images/polizei_medien_pro_monat.png)
 
@@ -88,7 +88,7 @@ The whole project is in one notebook with numbered sections, interpretations, li
 - The comparison applies to districts, not to persons (see [Scope and notes](#scope-and-notes))
 
 ### Dashboard
-- Interactive charts with `Plotly` in a `Streamlit` app, in German and English: [Open the dashboard](LINK FOLGT)
+- Interactive charts with `Plotly` in a `Streamlit` app, in German and English: [Open the dashboard](https://osint-berlin-2026.streamlit.app/?lang=en)
 - Below every chart: source, period, basis and the explanation of the terms
 - Only reads the finished tables in `dashboard/data/` (numbers, no texts of reports or articles); locally: `streamlit run dashboard/app.py`
 

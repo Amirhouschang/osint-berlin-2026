@@ -9,7 +9,7 @@ Lagebild der öffentlichen Sicherheit in Berlin von Januar bis Oktober 2026, nur
 Kriminalität in Berlin aus dem GDELT Global Knowledge Graph. Das Projekt zeigt, worüber die Polizei berichtet, wann und
 in welchen Bezirken, und wo sich Polizeimeldungen und Medienberichterstattung unterscheiden.
 
-**[Interaktives Dashboard öffnen](LINK FOLGT)** · [Notebook](osint_berlin_2026.ipynb)
+**[Interaktives Dashboard öffnen](https://osint-berlin-2026.streamlit.app/?lang=de)** · [Notebook](osint_berlin_2026.ipynb)
 
 ![Polizeimeldungen und Medienartikel pro Monat, Januar bis Oktober 2026](images/polizei_medien_pro_monat.png)
 
@@ -89,7 +89,7 @@ Das ganze Projekt steht in einem Notebook mit nummerierten Abschnitten, Interpre
 - Der Vergleich gilt für Bezirke, nicht für Personen (siehe [Einordnung und Hinweise](#einordnung-und-hinweise))
 
 ### Dashboard
-- Interaktive Grafiken mit `Plotly` in einer `Streamlit`-App, auf Deutsch und Englisch: [Dashboard öffnen](LINK FOLGT)
+- Interaktive Grafiken mit `Plotly` in einer `Streamlit`-App, auf Deutsch und Englisch: [Dashboard öffnen](https://osint-berlin-2026.streamlit.app/?lang=de)
 - Unter jedem Diagramm stehen Quelle, Zeitraum, Grundlage und die Erklärung der Begriffe
 - Liest nur die fertigen Tabellen aus `dashboard/data/` (Zahlen, keine Texte von Meldungen oder Artikeln); lokal: `streamlit run dashboard/app.py`
 
